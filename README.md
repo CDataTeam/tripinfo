@@ -2,7 +2,7 @@
   
 # Important Instructions
 **Candidates shall use Tableau and CSV Files/any database to implement the task.**  
-**Implement the task, commit into github, share the repo with CDataTeam, write clear steps to replicate your work and comment the codes.**  
+**Implement the task, commit into github, share the repo with CDataTeam (by inviting the CDataTeam as a collaborator to your Github Repository), write clear steps to replicate your work and comment the codes.**  
 
 # Candidates can choose to complete Task 1 or Task 2:
 ## Task 1
@@ -16,4 +16,4 @@
 2. Apply analytics.
 3. Create a visual story behind the data using Tableau.
 
-### Submission Deadline: 21-Mar-2021
+### Submission Deadline: 29-Mar-2021
