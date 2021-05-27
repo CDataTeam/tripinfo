@@ -1,4 +1,4 @@
-# data-analyst-intern-interview
+# data-analyst-interview
   
 # Important Instructions
 **Candidates shall use Tableau and CSV Files/any database to implement the task.**  
