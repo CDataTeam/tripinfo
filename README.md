@@ -2,7 +2,9 @@
   
 # Important Instructions
 **Candidates shall use Tableau and CSV Files/any database to implement the task.**  
-**Implement the task, commit into github, share the repo with CDataTeam (by inviting the CDataTeam as a collaborator to your Github Repository), write clear steps to replicate your work and comment the codes.**  
+**Sharing your work:
+**1) Implement the task, commit into github, share the repo with CDataTeam (by inviting the CDataTeam as a collaborator to your Github Repository), write clear steps to replicate your work and comment the codes.**  
+**2) If you would like, you can use Tableau Online to present your visualization.
 
 # Candidates can choose to complete Task 1 or Task 2:
 ## Task 1
