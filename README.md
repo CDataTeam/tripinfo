@@ -16,4 +16,4 @@
 2. Apply analytics.
 3. Create a visual story behind the data using Tableau.
 
-### Submission Deadline: 29-Mar-2021
+### Submission Deadline: 6-Jun-2021
