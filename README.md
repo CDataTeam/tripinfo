@@ -16,7 +16,7 @@
 3. Create a visual story behind the data using PowerBI.
 
 
-# Candidate can choose to share his/her work via Method 1 or Method 2:** <br>
+# Candidate can choose to share his/her work via Method 1 or Method 2: <br>
 ## Method 1
 Commit into github, share the repo with CDataTeam (by inviting the CDataTeam as a collaborator to your Github Repository), write clear steps to replicate your work and comment the codes.
 
