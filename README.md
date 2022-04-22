@@ -15,14 +15,12 @@
 2. Apply analytics.
 3. Create a visual story behind the data using PowerBI.
 
-**Candidate can choose to share his/her work via Method 1 or Method 2:** <br>
 
-**Method 1:**
+# Candidate can choose to share his/her work via Method 1 or Method 2:** <br>
+## Method 1
 Commit into github, share the repo with CDataTeam (by inviting the CDataTeam as a collaborator to your Github Repository), write clear steps to replicate your work and comment the codes.
 
-**Method 2:**
+## Method 2
 Send the .pbix file with clear steps to replicate your work and comment the codes.
-
-
 
 ### Submission Deadline: Refer to Email Communication.
