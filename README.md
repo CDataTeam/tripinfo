@@ -12,7 +12,7 @@
 5. Write an analysis report for your PowerBI Dashboard / Report.
 
 ## Task 2
-1. Use the following CSV Files as the data input:
+1. Use the following CSV Files as data source:
    - paymenttype.csv
    - ratecode.csv
    - taxi_zone_lookup.csv
