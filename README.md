@@ -12,7 +12,11 @@
 5. Write an analysis report for your PowerBI Dashboard / Report.
 
 ## Task 2
-1. Use CSV Files to get the data.
+1. Use the following CSV Files as the data input:
+   - paymenttype.csv
+   - ratecode.csv
+   - taxi_zone_lookup.csv
+   - tripdata.zip [tripdata\tripdata.csv] 
 2. Apply analytics.
 3. Create a visual story behind the data using PowerBI.
 4. Write an analysis report for your PowerBI Dashboard / Report.
