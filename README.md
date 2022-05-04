@@ -9,7 +9,7 @@
 2. Process the raw data in zip folder and load the processed data model into a database for querying the results. 
 3. Apply analytics.
 4. Create a visual story behind the data using PowerBI.
-5. Write an analysis report for your PowerBI Dashboard / Report.
+5. Explain and provide a quick summary of the PowerBI Dashboard / Report.
 
 ## Task 2
 1. Use the following CSV Files as data source:
@@ -19,7 +19,7 @@
    - tripdata.zip [tripdata\tripdata.csv] 
 2. Apply analytics.
 3. Create a visual story behind the data using PowerBI.
-4. Write an analysis report for your PowerBI Dashboard / Report.
+4. Explain and provide a quick summary of the PowerBI Dashboard / Report.
 
 
 # Candidate can choose to share his/her work via Method 1 or Method 2: <br>
