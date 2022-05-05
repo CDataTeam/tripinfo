@@ -5,7 +5,7 @@
 
 # Candidate can choose to complete Task 1 or Task 2:
 ## Task 1
-1. Reference DDL & DML script files to create physical database model.
+1. Use DDL & DML script files to create physical database model.
 2. Process the raw data in zip folder and load the processed data model into a database for querying the results. 
 3. Apply analytics.
 4. Create a visual story behind the data using PowerBI.
